@@ -39,8 +39,10 @@ p{
 }
 
 hr{
-    border: dotted #EAF6F6 6px;
-    border-bottom: none;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #EAF6F6;
+    border-width: 6px;
     width: 4%;
     margin: 100px auto;
 }
@@ -123,6 +125,7 @@ hr{
 
 .credits{
   color: #EAF6F6;
+  font-family: 'Montserrat', sans-serif;
   font-size: 0.75rem;
   padding: 20px 0;
 }
