@@ -62,6 +62,10 @@ hr{
   background-color: #66BFBF;
 }
 
+.profile-picture{
+  width: 20%;
+}
+
 .intro{
   margin: auto;
   width: 30%;
